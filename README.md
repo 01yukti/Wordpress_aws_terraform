@@ -1,1 +1,1 @@
-# Wordpress_aws_terraform
+# Wordpress_AWS_Terraform
